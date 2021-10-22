@@ -19,3 +19,5 @@ bazhar and his entire indian retarded team sucks
 > his entire admin team is retarded, most of them are pasting on unknowncheats (BAKED).
 # conclusion
 > oh and stop trying to separate APPLE & CL, they are the same cheat, the "cl777" account is just an alt and a fake account (trying to make a good rep on a new identity(AGAIN))
+# bazhar anal and raped on the anus everyday
+> cry about it.
