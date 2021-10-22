@@ -4,8 +4,10 @@
 this is the real html page, cheatloverz pasted the source of masterpasta, they doesn't even use any PHP but they use HTML and a backend (JS).
 OFC we can't get their backend so me & masterpasta decided to make a simple login included and compatible with this source.
 
+
+# HOW TO USE
 ```js
-  if(username == "admin" && password== "user")
+  if(username == "exampleusername" && password== "examplepassword")
    {
     window.location.replace("https://dash.cheatloverz.com/panel");
    }
